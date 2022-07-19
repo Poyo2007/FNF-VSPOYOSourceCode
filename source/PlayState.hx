@@ -460,7 +460,7 @@ class PlayState extends MusicBeatState
 				
 				add(BG);
 				add(FG);
-				add(Fade)
+				add(Fade);
 		}
 	
 		switch(Paths.formatToSongPath(SONG.song))
