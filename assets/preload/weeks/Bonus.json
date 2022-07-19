@@ -1,0 +1,59 @@
+{
+  "songs": [
+    [
+      "Atrocity",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ],
+    [
+      "taste-for-drip",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ],
+    [
+      "poopshit-rap-2-electric-boogaloo",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ],
+    [
+      "Epic-Legacy",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ]
+  ],
+  "hiddenUntilUnlocked": false,
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "difficulties": "Normal",
+  "weekCharacters": [
+    "dad",
+    "bf",
+    "gf"
+  ],
+  "storyName": "Downtown Funkin\u0027",
+  "weekName": "Bonus",
+  "freeplayColor": [
+    255,
+    181,
+    181
+  ],
+  "hideStoryMode": true,
+  "weekBefore": "Poyo\u0027s Week",
+  "startUnlocked": true
+}
