@@ -1,0 +1,84 @@
+{
+  "dialogue": [
+    {
+      "sound": "",
+      "speed": 0.08,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "lmao why is today so boring"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "i dont even know what there is to do anymore"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "boyfriend",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "beep"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "hi uuuuh"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "i wouldnt really ask this to anyone, but would you care to sing a few songs with me?"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "is been quite boring lately tbh"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "girlfriend",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "He\u0027s actually into rapping, I\u0027m sure he won\u0027t hestiate to sing songs with you!"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "boyfriend",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "beep bap"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "awesome"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "boyfriend",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "beep bop bap"
+    }
+  ]
+}

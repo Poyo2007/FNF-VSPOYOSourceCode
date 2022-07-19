@@ -1,0 +1,84 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "too-slow",
+		"player1": "poyo-player",
+		"player2": "sonicexe",
+		"player3": null,
+		"events": [
+			[
+				125385.780822593,
+				[
+					[
+						"Set Property",
+						"Fade.alpha",
+						"1"
+					],
+					[
+						"Set Property",
+						"camGame.alpha",
+						"0.3"
+					]
+				]
+			],
+			[
+				135268.133763769,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				135610.990906626,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				135953.848049484,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				136296.705192341,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				136639.562335198,
+				[
+					[
+						"Play Animation",
+						"end",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Too-Slow"
+	}
+}

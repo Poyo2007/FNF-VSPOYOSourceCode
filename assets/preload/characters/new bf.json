@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        6,
+        6
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "Left",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        3,
+        -28
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "Down",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "Up",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -2,
+        -4
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "Right",
+      "indices": []
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "indices": [],
+      "fps": 16,
+      "anim": "idle",
+      "loop": false,
+      "name": "Idle"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/bfpoyo",
+  "position": [
+    90,
+    420
+  ],
+  "healthicon": "bf",
+  "flip_x": true,
+  "healthbar_colors": [
+    55,
+    195,
+    215
+  ],
+  "camera_position": [
+    110,
+    -180
+  ],
+  "sing_duration": 6.1,
+  "scale": 1.9
+}

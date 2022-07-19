@@ -1,0 +1,60 @@
+{
+  "dialogue": [
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "oop, i got a bit carried away from the singing lmfao"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "boyfriend",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "bap boop beep dah brep"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "ty for that, this next one goes as hard as the last one"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "boyfriend",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "brep bap bop beep"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "girlfriend",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Well, my boyfriend only has time for 3 songs."
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "boyfriend",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "bap beep"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyo",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "alright then, ill make the other 2 fun"
+    }
+  ]
+}

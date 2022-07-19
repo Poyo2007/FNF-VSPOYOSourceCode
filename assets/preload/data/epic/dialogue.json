@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool asf lmfao"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "brep bap beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alr lemme just break the fourth wall rq"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this third song wasnt going to be hard, but due to request of some random guy in rlph, i decided to make this hard and fun"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "the song was originally decent, but me and shekkai47 (musician of summer sunset) decided to improve on it"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "originally this was nafri's job to make the vocals and not me but he had a music block so i came in clutch"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and now we are here, if you came from the catmania showcase, this mod was in a really early state."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if you wanted to play the old song with a  improved chart, check freeplay"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "girlfriend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And what do you mean about this fourth wall?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you guys are game characters you wouldnt understand"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "girlfriend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the fuck are you on about."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poyo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fotget what i said, lets just start"
+		}
+	]
+}

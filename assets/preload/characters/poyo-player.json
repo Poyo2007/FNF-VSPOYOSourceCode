@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -1,
+        -22
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "Poyo Left"
+    },
+    {
+      "offsets": [
+        0,
+        -20
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Poyo Idle"
+    },
+    {
+      "offsets": [
+        0,
+        -20
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "Poyo Down"
+    },
+    {
+      "offsets": [
+        13,
+        -19
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "Poyo Up"
+    },
+    {
+      "offsets": [
+        -3,
+        -18
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "Poyo Right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/Poyo",
+  "position": [
+    0,
+    80
+  ],
+  "healthicon": "poyo",
+  "flip_x": false,
+  "healthbar_colors": [
+    255,
+    221,
+    221
+  ],
+  "camera_position": [
+    130,
+    -120
+  ],
+  "sing_duration": 6.1,
+  "scale": 1.2
+}
